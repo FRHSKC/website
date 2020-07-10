@@ -2614,3 +2614,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .extendeddescription{
     font-size: 60%;
 }
+
+.aboutfix{
+    background: #ffffff;
+    padding: 4.4rem 0 3.6rem 0;
+}
