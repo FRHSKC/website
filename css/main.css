@@ -1836,7 +1836,6 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .s-content {
     background: #ffffff;
     padding: 4.4rem 0 3.6rem 0;
-    padding-left: 350px;
 }
 
 .s-content__main {
